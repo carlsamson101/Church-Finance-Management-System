@@ -2,7 +2,7 @@
 
 A simple offline-capable web app for counting and recording church finances. It works on phones and computers and needs no server or account.
 
-**Live app:** https://carlsamson101.github.io/Church-Finance-Management-System/
+**Live:** ccccfinance.netlify.app
 
 ## Features
 
